@@ -6,10 +6,11 @@ tap homebrew/cask
 
 # development
 brew nvm
+brew azure-cli
 #cask sourcetree
 #brew pipx
 #brew pyenv
-brew azure-cli
+#brew postman
 
 # collaboration
 cask microsoft-teams

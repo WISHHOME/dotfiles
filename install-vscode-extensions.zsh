@@ -14,3 +14,5 @@ code-insiders --install-extension ms-vscode.vscode-node-azure-pack
 code-insiders --install-extension ms-kubernetes-tools.vscode-aks-tools
 code-insiders --install-extension ms-edgedevtools.vscode-edge-devtools
 code-insiders --install-extension docsmsft.docs-authoring-pack
+
+code-insiders --install-extension angular.ng-template
