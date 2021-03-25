@@ -1,0 +1,16 @@
+tap homebrew/cask-drivers
+tap homebrew/cask
+
+# utility
+#cask logitech-g-hub
+
+# development
+brew nvm
+#cask sourcetree
+#brew pipx
+#brew pyenv
+brew azure-cli
+
+# collaboration
+cask microsoft-teams
+cask figma

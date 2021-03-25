@@ -1,0 +1,25 @@
+tap homebrew/cask
+tap hom/cask-fonts
+
+# drivers
+cask logitech-options
+
+# development
+cask iterm2
+cask visual-studio-code-insiders
+
+# utility
+cask shiftit
+
+# security
+cask 1password
+#cask gpg-suite
+#cask keybase
+
+# web browser
+#cask microsoft-edge
+cask google-chrome
+cask firefox-developer-edition
+
+# font
+cask font-source-code-pro
