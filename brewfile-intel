@@ -5,6 +5,7 @@ tap homebrew/cask
 #cask logitech-g-hub
 
 # development
+brew git-flow-avh
 brew nvm
 brew azure-cli
 #cask sourcetree
