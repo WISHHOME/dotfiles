@@ -8,6 +8,7 @@ tap homebrew/cask
 brew git-flow-avh
 brew nvm
 brew azure-cli
+brew microsoft-azure-storage-explorer
 #cask sourcetree
 #brew pipx
 #brew pyenv
