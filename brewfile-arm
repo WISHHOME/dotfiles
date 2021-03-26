@@ -10,6 +10,7 @@ cask visual-studio-code-insiders
 
 # utility
 cask shiftit
+cask appcleaner
 
 # security
 cask 1password
