@@ -2,7 +2,7 @@ tap homebrew/cask
 tap hom/cask-fonts
 
 # drivers
-cask logitech-options
+#cask logitech-options
 
 # development
 cask iterm2
@@ -15,7 +15,7 @@ cask appcleaner
 # security
 cask 1password
 cask authy
-#cask gpg-suite
+cask gpg-suite
 #cask keybase
 
 # web browser
@@ -25,3 +25,7 @@ cask firefox-developer-edition
 
 # font
 cask font-source-code-pro
+cask font-dejavu-sans-mono-nerd-font
+cask font-fira-code-nerd-font
+cask font-d2coding
+cask font-jetbrains-mono-nerd-font
