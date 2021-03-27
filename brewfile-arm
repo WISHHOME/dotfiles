@@ -14,6 +14,7 @@ cask appcleaner
 
 # security
 cask 1password
+cask authy
 #cask gpg-suite
 #cask keybase
 

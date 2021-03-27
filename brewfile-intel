@@ -3,16 +3,17 @@ tap homebrew/cask
 
 # utility
 #cask logitech-g-hub
+brew watchman 
 
 # development
 brew git-flow-avh
 brew nvm
 brew azure-cli
 brew microsoft-azure-storage-explorer
-#cask sourcetree
 #brew pipx
 #brew pyenv
-#brew postman
+#cask sourcetree
+#cask postman
 
 # collaboration
 cask microsoft-teams
