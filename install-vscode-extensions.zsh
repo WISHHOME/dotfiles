@@ -16,3 +16,5 @@ code-insiders --install-extension ms-edgedevtools.vscode-edge-devtools
 code-insiders --install-extension docsmsft.docs-authoring-pack
 
 code-insiders --install-extension angular.ng-template
+
+code-insiders --install-extension gruntfuggly.todo-tree
