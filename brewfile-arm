@@ -1,5 +1,6 @@
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
 
 # drivers
 #cask "logitech-options"
@@ -15,7 +16,7 @@ cask "appcleaner"
 # security
 cask "1password"
 cask "authy"
-cask "gpg-suite"
+#cask "gpg-suite"
 #cask "keybase"
 
 # web browser
