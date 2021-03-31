@@ -1,32 +1,32 @@
-tap homebrew/cask
-tap hom/cask-fonts
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
 
 # drivers
-#cask logitech-options
+#cask "logitech-options"
 
 # development
-cask iterm2
-cask visual-studio-code-insiders
+cask "iterm2"
+cask "visual-studio-code-insiders"
 
 # utility
-cask shiftit
-cask appcleaner
+cask "shiftit"
+cask "appcleaner"
 
 # security
-cask 1password
-cask authy
-cask gpg-suite
-#cask keybase
+cask "1password"
+cask "authy"
+cask "gpg-suite"
+#cask "keybase"
 
 # web browser
-#cask microsoft-edge
-cask google-chrome
-cask firefox-developer-edition
+#cask "microsoft-edge"
+cask "google-chrome"
+cask "firefox-developer-edition"
 
 # font
-cask font-source-code-pro
-cask font-dejavu-sans-mono-nerd-font
-cask font-fira-code-nerd-font
-cask font-d2coding
-cask font-jetbrains-mono-nerd-font
-cask font-ibm-plex
+cask "font-source-code-pro"
+cask "font-dejavu-sans-mono-nerd-font"
+cask "font-fira-code-nerd-font"
+cask "font-d2coding"
+cask "font-jetbrains-mono-nerd-font"
+cask "font-ibm-plex"

@@ -1,20 +1,20 @@
-tap homebrew/cask-drivers
-tap homebrew/cask
+tap "homebrew/cask-drivers"
+tap "homebrew/cask"
 
 # utility
-#cask logitech-g-hub
-brew watchman 
+#cask "logitech-g-hub"
+brew "watchman"
 
 # development
-brew git-flow-avh
-brew nvm
-brew azure-cli
-brew microsoft-azure-storage-explorer
-#brew pipx
-#brew pyenv
-#cask sourcetree
-#cask postman
+brew "git-flow-avh"
+brew "nvm"
+brew "azure-cli"
+brew "microsoft-azure-storage-explorer"
+#brew "pipx"
+#brew "pyenv"
+#cask "sourcetree"
+#cask "postman"
 
 # collaboration
-cask microsoft-teams
-cask figma
+cask "microsoft-teams"
+cask "figma"
