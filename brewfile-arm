@@ -9,6 +9,9 @@ tap "homebrew/cask-versions"
 cask "iterm2"
 cask "visual-studio-code-insiders"
 
+# collaboration
+cask "yammer"
+
 # utility
 cask "shiftit"
 cask "appcleaner"
