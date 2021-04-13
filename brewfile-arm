@@ -15,6 +15,7 @@ cask "yammer"
 # utility
 cask "shiftit"
 cask "appcleaner"
+cask "the-unarchiver"
 
 # security
 cask "1password"
