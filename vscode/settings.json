@@ -17,5 +17,6 @@
   "angular.experimental-ivy": true,
   "git.autofetch": true,
   "window.title": "${activeEditorShort}${separator}${rootPath}",
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
+	"terminal.integrated.macOptionIsMeta": true
 }
