@@ -1,16 +1,25 @@
 tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
+tap "homebrew/cask-drivers"
 
 # drivers
-#cask "logitech-options"
+cask "logitech-options"
 
 # development
 cask "iterm2"
 cask "visual-studio-code-insiders"
+cask "sourcetree"
+cask "postman"
+cask "microsoft-azure-storage-explorer"
+brew "git-flow-avh"
+brew "nvm"
+brew "azure-cli"
+brew "watchman"
 
 # collaboration
-cask "yammer"
+cask "figma"
+#cask "yammer"
 
 # utility
 cask "shiftit"
@@ -20,11 +29,11 @@ cask "the-unarchiver"
 # security
 cask "1password"
 cask "authy"
-#cask "gpg-suite"
-#cask "keybase"
+cask "gpg-suite"
+cask "keybase"
 
 # web browser
-#cask "microsoft-edge"
+cask "microsoft-edge"
 cask "google-chrome"
 cask "firefox-developer-edition"
 

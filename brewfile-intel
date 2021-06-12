@@ -3,20 +3,9 @@ tap "homebrew/cask"
 
 # utility
 #cask "logitech-g-hub"
-brew "watchman"
 
 # development
-brew "git-flow-avh"
-brew "nvm"
-brew "azure-cli"
 #brew "pipx"
 #brew "pyenv"
 cask "docker"
-cask "visual-studio-code"
-cask "microsoft-azure-storage-explorer"
-#cask "sourcetree"
-#cask "postman"
-
-# collaboration
-cask "microsoft-teams"
-cask "figma"
+#cask "visual-studio-code"
