@@ -8,17 +8,21 @@ cask "logitech-options"
 
 # development
 cask "iterm2"
-cask "visual-studio-code-insiders"
+cask "visual-studio-code"
 cask "sourcetree"
 cask "postman"
 cask "microsoft-azure-storage-explorer"
+cask "docker"
 brew "git-flow-avh"
 brew "nvm"
 brew "azure-cli"
 brew "watchman"
 
-# collaboration
+# design
+cask "gimp"
 cask "figma"
+
+# collaboration
 #cask "yammer"
 
 # utility
@@ -38,7 +42,7 @@ cask "google-chrome"
 cask "firefox-developer-edition"
 
 # font
-cask "font-source-code-pro"
+# cask "font-source-code-pro"
 cask "font-dejavu-sans-mono-nerd-font"
 cask "font-fira-code-nerd-font"
 cask "font-d2coding"

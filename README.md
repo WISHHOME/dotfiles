@@ -4,10 +4,10 @@
 This repository help you to onboarding team.
 
 ## how to use
-check brefile-*.<br />
+Check brefile.<br />
 You can modify some package in brewfile as you taste.
 ```
 ./install-homebrew.zsh
 
-brew bundle --file brewfile-*
+brew bundle --file brewfile
 ```
