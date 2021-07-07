@@ -1,4 +1,5 @@
 {
+	"workbench.colorTheme": "Default Dark+",
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "editor.fontSize": 16,
@@ -7,6 +8,7 @@
   "markdown.preview.fontSize": 16,
   "terminal.integrated.fontSize": 16,
   "editor.suggestSelection": "first",
+	"redhat.telemetry.enabled": false,
   "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "markdownlint.customRules": [
       "{docsmsft.docs-linting}/markdownlint-custom-rules/rules.js"
@@ -14,7 +16,6 @@
   "markdownlint.config": {
       "MD028": false
   },
-  "angular.experimental-ivy": true,
   "git.autofetch": true,
   "window.title": "${activeEditorShort}${separator}${rootPath}",
   "editor.tabSize": 2,
