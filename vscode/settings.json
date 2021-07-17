@@ -19,5 +19,11 @@
   "git.autofetch": true,
   "window.title": "${activeEditorShort}${separator}${rootPath}",
   "editor.tabSize": 2,
-	"terminal.integrated.macOptionIsMeta": true
+	"terminal.integrated.macOptionIsMeta": true,
+	"editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"workbench.editor.enablePreview": false
 }
