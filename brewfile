@@ -23,6 +23,7 @@ cask "figma"
 
 # collaboration
 #cask "yammer"
+cask "microsoft-teams"
 
 # utility
 #cask "shiftit"
